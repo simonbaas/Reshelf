@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reshelf", "src\Reshelf\Reshelf.csproj", "{7D98103C-8196-4146-84AD-A9E7AEBB96DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reshelf.Log4Net", "src\Reshelf.Log4Net\Reshelf.Log4Net.csproj", "{729A788F-BDD2-4ECE-99E4-626610F0527F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reshelf.Autofac", "src\Reshelf.Autofac\Reshelf.Autofac.csproj", "{33617279-680B-43C7-92E7-59213FE7E835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D98103C-8196-4146-84AD-A9E7AEBB96DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D98103C-8196-4146-84AD-A9E7AEBB96DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D98103C-8196-4146-84AD-A9E7AEBB96DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D98103C-8196-4146-84AD-A9E7AEBB96DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729A788F-BDD2-4ECE-99E4-626610F0527F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729A788F-BDD2-4ECE-99E4-626610F0527F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729A788F-BDD2-4ECE-99E4-626610F0527F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729A788F-BDD2-4ECE-99E4-626610F0527F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33617279-680B-43C7-92E7-59213FE7E835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33617279-680B-43C7-92E7-59213FE7E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33617279-680B-43C7-92E7-59213FE7E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33617279-680B-43C7-92E7-59213FE7E835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
