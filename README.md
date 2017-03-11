@@ -3,7 +3,7 @@ Reshelf is a library for simplifying the task of running dotnet core services on
 
 Reshelf will listen to SIGINT and SIGTERM signals and try to shut the service down gracefully.
 
-The syntax i heavily influenced by the excellent library Topshelf.
+The syntax is heavily influenced by the excellent library Topshelf.
 
 ## Usage
 ```csharp
